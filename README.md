@@ -101,7 +101,7 @@ The selected model achieved strong performance with good balance between precisi
 * Add more medical features
 * Improve model accuracy using deep learning
 * Add data upload functionality
-* Deploy on cloud (AWS / Streamlit Cloud)
+  
 
 ---
 
